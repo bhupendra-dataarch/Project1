@@ -1,2 +1,3 @@
 Hi ,
 This is my Master Branch File.
+This is my second line in this file
